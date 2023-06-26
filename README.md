@@ -18,8 +18,6 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Bootstrap" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/bootstrap_5968672?    
- term=bootstrap&page=1&position=1&origin=search&related_id=5968672">
  </div>
   
   ##
