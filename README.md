@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo Mathias 👋
 
 - 🔭 Hoje estou procurando um estágio como desenvolvedor web
-- 🌱 Estudando JavaScript
+- 🌱 Estudando programação
 - 📫 Contate-me no email: gumathias1304@gmail.com
 - ⚡ Fato engraçado: Se eu não fosse desenvolvedor eu seria jogador de futebol
 
