@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Mathias 👋
 
-- 🔭 Hoje estou procurando um estágio como desenvolvedor web
+- 🔭 Hoje estou atuando como estágiario de Desenvolvedor de Software na Timeware
 - 🌱 Estudando programação
 - 📫 Contate-me no email: gumathias1304@gmail.com
 - ⚡ Fato engraçado: Se eu não fosse desenvolvedor eu seria jogador de futebol
@@ -19,16 +19,13 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-          
- </div>
+</div>
   
   ##
   
 <div> 
   <a href="mailto:gumathias1304@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-mathias-70354322a/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/gmathias_0?igshid=NTc4MTIwNjQ2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
 </div> 
  
           
