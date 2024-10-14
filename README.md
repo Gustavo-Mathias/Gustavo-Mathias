@@ -3,7 +3,6 @@
 - 🔭 Hoje estou atuando como estágiario de Desenvolvedor de Software na Timeware
 - 🌱 Estudando programação
 - 📫 Contate-me no email: gumathias1304@gmail.com
-- ⚡ Fato engraçado: Se eu não fosse desenvolvedor eu seria jogador de futebol
 
 <div>
 <img src="https://komarev.com/ghpvc/?username=Gustavo-Mathias&color=green" alt="Contador de Visitas" /> 
@@ -22,9 +21,6 @@
   <img align="center" alt="Rafa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/>
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-          
-          
-          
 </div>
   
   ##
