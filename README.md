@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-mathias&show_icons=true&locale=en&layout=compact" alt="gustavo-mathias" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavo-mathias&show_icons=true&locale=en" alt="gustavo-mathias" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo-mathias&" alt="gustavo-mathias" /></p>
