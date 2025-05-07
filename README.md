@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, sou Gustavo Mathias</h1>
-<h3 align="center">👨‍💻 Desenvolvedor Full Stack 🚀 Foco em .NET, Angular, React, SQLServer, Docker e Clean Architecture 💼 Trabalhando em projetos de Gerenciador de Associados e Rede de Farmácias 🌱 Aprendendo DevOps</h3>
-
+<h3 align="center">👨‍💻 Desenvolvedor Full Stack 🚀</h3>
+<h3 align="center"> 🚀 Foco em .NET, Angular, React, SQLServer, Docker e Clean Architecture</h3>
+<h3 align="center">💼 Trabalhando em projetos de Gerenciador de Associados e Rede de Farmácias</h3>
+<h3 align="center">🌱 Aprendendo DevOps</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavo-mathias&label=Profile%20views&color=0e75b6&style=flat" alt="gustavo-mathias" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavo-mathias" alt="gustavo-mathias" /></a> </p>
